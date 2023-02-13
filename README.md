@@ -22,7 +22,7 @@ python launch_experiment.py ./configs/scoop-jelly-eval.json
 If you found this code useful please cite our work as:
 
 ```
-@inproceedings{ren2022versatile,
+@article{ren2022versatile,
   title={Versatile Control of Fluid-directed Solid Objects Using Multi-task Reinforcement Learning},
   author={Ren, Bo and Ye, Xiaohan and Pan, Zherong and Zhang, Taiyuan},
   journal={ACM Transactions on Graphics},
