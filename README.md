@@ -1,11 +1,15 @@
 
 
 
-environment:
+## environment:
+
 taichi:
+
 jittor:
 
-train:
+# train
+
 python launch_experiment.py ./configs/scoop-jelly-train.json
-test and show:
+
+# test and show:
 python launch_experiment.py ./configs/scoop-jelly-eval.json
