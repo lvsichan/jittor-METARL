@@ -23,7 +23,7 @@ python launch_experiment.py ./configs/scoop-jelly-eval.json
 ```
 We provide an example of catching a ball. A trained model. After configuring the environment, you can get the following animation：
 
-![image](https://github.com/lvsichan/jittor-METARL/blob/master/image/MPM%20SCOOP%20THE%20JELLY.gif)
+![image](https://github.com/lvsichan/jittor-METARL/blob/master/image/scoop.gif)
 
 ## Citation
 
