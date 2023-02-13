@@ -14,13 +14,13 @@ We propose a learning-based controller for high-dimensional dynamic systems with
 
 * gym 0.26.2
 
-## train
+## Train
 
 ```
 python launch_experiment.py ./configs/scoop-jelly-train.json
 ```
 
-## test and show:
+## Eval
 
 ```
 python launch_experiment.py ./configs/scoop-jelly-eval.json
