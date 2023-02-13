@@ -14,9 +14,9 @@ python launch_experiment.py ./configs/scoop-jelly-train.json
 
 ## test and show:
 
-'''python
+```python
 python launch_experiment.py ./configs/scoop-jelly-eval.json
-'''
+```
 
 
 ## Citation
