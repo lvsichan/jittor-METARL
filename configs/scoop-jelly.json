@@ -1,0 +1,23 @@
+{
+    "env_name": "scoop_jelly",
+    "n_train_tasks": 1,
+    "n_eval_tasks": 1,
+    "enc_model": "./scoop_envs/Encoder/encoder.pth",
+    "env_params": {
+        "n_tasks": 1
+    }
+    ,
+    "training" : [true],
+    "algo_params": {
+        "num_initial_steps": 150,
+        "num_steps_prior": 150,
+        "num_steps_posterior": 150,
+        "num_extra_rl_steps_posterior": 0,
+        "num_train_steps_per_itr": 1000,
+        "num_steps_per_eval": 1,
+        "max_path_length": 150,
+        "reward_scale": 40.0,
+        "kl_lambda": 100.0,
+        "replay_buffer_size":10
+    }
+}
