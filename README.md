@@ -25,7 +25,7 @@ python launch_experiment.py ./configs/scoop-jelly-train.json
 ```
 python launch_experiment.py ./configs/scoop-jelly-eval.json
 ```
-We provide an example of catching a ball. A trained model. After configuring the environment, you can get the following animation：
+We provide an example of scooping ball. A trained model. After configuring the environment, you can get the following animation：
 
 <div align=center>
 <img src="https://github.com/lvsichan/jittor-METARL/blob/master/image/scoop.gif"/>
