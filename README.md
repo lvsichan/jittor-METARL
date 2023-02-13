@@ -10,11 +10,13 @@ jittor:
 
 ## train
 
+```
 python launch_experiment.py ./configs/scoop-jelly-train.json
+```
 
 ## test and show:
 
-```python
+```
 python launch_experiment.py ./configs/scoop-jelly-eval.json
 ```
 
