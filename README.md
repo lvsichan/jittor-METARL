@@ -21,7 +21,7 @@ python launch_experiment.py ./configs/scoop-jelly-eval.json
 ```
 We provide an example of catching a ball. A trained model. After configuring the environment, you can get the following animation：
 
-<img src="README.assets\result-1625980590643.gif" width="300" height="200" alt="result" style="zoom:50%;" />
+<img src="image\MPM SCOOP THE JELLY.gif" width="300" height="200" alt="result" style="zoom:50%;" />
 
 ## Citation
 
