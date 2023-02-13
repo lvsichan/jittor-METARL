@@ -1,3 +1,4 @@
+# Versatile Control of Fluid-Directed Solid Objects Using Multi-Task Reinforcement Learning
 
 
 
@@ -13,8 +14,9 @@ python launch_experiment.py ./configs/scoop-jelly-train.json
 
 ## test and show:
 
+'''python
 python launch_experiment.py ./configs/scoop-jelly-eval.json
-
+'''
 
 
 ## Citation
