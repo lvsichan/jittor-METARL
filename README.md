@@ -6,10 +6,13 @@ We propose a learning-based controller for high-dimensional dynamic systems with
 
 ## Requirement
 
-*jittor 1.3.6.10
-*taichi 1.4.1
-*tensorboardX 2.5.1
-*gym 0.26.2
+jittor 1.3.6.10
+
+taichi 1.4.1
+
+tensorboardX 2.5.1
+
+gym 0.26.2
 
 ## train
 
