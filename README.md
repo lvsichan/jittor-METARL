@@ -14,7 +14,7 @@ We propose a learning-based controller for high-dimensional dynamic systems with
 
 * gym 0.26.2
 
-##Quick Start
+## Quick Start
 
 ### Train
 
